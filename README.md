@@ -1,8 +1,8 @@
 # code-wars-javascript-
 A basic task using javascript.
-## In file "index.html(abhishek)" is the final code written by me.
+### In file "index.html(final code)" is the final code written by me.
 
-## In file name "index.html(base code)" base code is written, use this to complete further programming required.
+### In file name "index.html(base code)" base code is written, use this to complete further programming required.
 ~ Consider the following game :
   Numbers from 1 to 25 are randomly placed on the maze and the player has to bring them in order only by swapping.
   The only controls allowed are arrow keys and enter key.
